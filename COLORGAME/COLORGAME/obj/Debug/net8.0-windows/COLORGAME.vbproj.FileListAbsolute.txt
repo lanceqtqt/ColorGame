@@ -1,0 +1,17 @@
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\bin\Debug\net8.0-windows\COLORGAME.exe
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\bin\Debug\net8.0-windows\COLORGAME.deps.json
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\bin\Debug\net8.0-windows\COLORGAME.runtimeconfig.json
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\bin\Debug\net8.0-windows\COLORGAME.dll
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\bin\Debug\net8.0-windows\COLORGAME.pdb
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\obj\Debug\net8.0-windows\COLORGAME.Form1.resources
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\obj\Debug\net8.0-windows\COLORGAME.Resources.resources
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\obj\Debug\net8.0-windows\COLORGAME.vbproj.GenerateResource.cache
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\obj\Debug\net8.0-windows\COLORGAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\obj\Debug\net8.0-windows\COLORGAME.AssemblyInfoInputs.cache
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\obj\Debug\net8.0-windows\COLORGAME.AssemblyInfo.vb
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\obj\Debug\net8.0-windows\COLORGAME.vbproj.CoreCompileInputs.cache
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\obj\Debug\net8.0-windows\COLORGAME.dll
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\obj\Debug\net8.0-windows\refint\COLORGAME.dll
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\obj\Debug\net8.0-windows\COLORGAME.pdb
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\obj\Debug\net8.0-windows\COLORGAME.genruntimeconfig.cache
+C:\Users\QCU\source\repos\COLORGAME\COLORGAME\obj\Debug\net8.0-windows\ref\COLORGAME.dll
